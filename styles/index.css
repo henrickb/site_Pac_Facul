@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo-nav{
+    width: 32px;
+}
+
+.toogle-icon{
+    height: 25px;
+}
+
+nav a{
+    font-weight: 475 !important;
+    color: #FFE428 !important;
+}
+
+.thumb-container{
+    overflow: hidden;
+    max-height: 500px;
+}
+
+.sec-2{
+    text-transform: uppercase;
+    color: white;
+    background-color: #10151C;
+}
+
+.sec-2 input{
+    background-color: white;
+    border: solid 10px white;
+    border-radius: 15px;
+}
+
+footer{
+    background-color: #8F1443;
+}
+
+.logo-catolica{
+    min-width: 260px;
+    max-width: 340px;
+    justify-items: center;
+}

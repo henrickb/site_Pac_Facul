@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #10151C;
+    color: white;
+    text-align: justify;
+}
+
+.logo-nav {
+    width: 32px;
+}
+
+.toogle-icon {
+    height: 25px;
+}
+
+nav a {
+    font-weight: 475 !important;
+    color: #FFE428 !important;
+}
+
+body{
+    background-color: #10151C;
+}
+
+.imagens img{
+    height: 250px;
+    width: 250px;
+}
+
+.imagens .row{
+    gap: 75px;
+}

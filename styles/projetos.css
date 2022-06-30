@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #10151C;
+    color: white;
+    text-align: justify;
+}
+
+.logo-nav {
+    width: 32px;
+}
+
+.toogle-icon {
+    height: 25px;
+}
+
+nav a {
+    font-weight: 475 !important;
+    color: #FFE428 !important;
+}
+
+.carousel-item{
+    min-height: 200px;
+    max-height: 500px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    margin: 250px 0px 250px 0px !important;
+}
+
+.card-body {
+    max-width: 300px;
+}
+
+.card-body-img {
+    overflow: hidden;
+    min-width: 300px;
+    max-height: 350px;
+    max-width: 200px;
+}
+
+@media only screen and (max-width: 770px) {
+    .row {
+        display: grid;
+        justify-content: center;
+    }
+}
